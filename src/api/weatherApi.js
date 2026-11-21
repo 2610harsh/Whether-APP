@@ -1,6 +1,6 @@
 import api from './api';
 
-const WEATHER_API_KEY = 'b45a2ad623968f6c7be3d6d4ed5f6b46';
+const WEATHER_API_KEY = 'KEY';
 
 export const getCountries = async () => {
   const response = await fetch(
